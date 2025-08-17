@@ -1,0 +1,21 @@
+c Example graph in DIMACS format
+c This graph has a maximum clique of size 4: vertices 1,2,3,4 (0,1,2,3 in 0-indexed)
+p edge 8 18
+e 1 2
+e 1 3
+e 1 4
+e 1 5
+e 2 3
+e 2 4
+e 2 6
+e 3 4
+e 3 7
+e 4 8
+e 5 6
+e 5 7
+e 5 8
+e 6 7
+e 6 8
+e 7 8
+e 1 8
+e 2 7

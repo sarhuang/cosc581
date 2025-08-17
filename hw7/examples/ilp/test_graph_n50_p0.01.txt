@@ -1,0 +1,13 @@
+c DIMACS graph generated for max clique problem
+p edge 50 11
+e 1 21
+e 1 25
+e 2 32
+e 4 40
+e 10 45
+e 11 43
+e 14 43
+e 15 22
+e 15 36
+e 31 43
+e 38 43

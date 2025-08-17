@@ -1,0 +1,9 @@
+c Graph with a maximum clique {1,2,5} and 4 more maximal cliques
+p edge 6 7
+e 1 2
+e 1 5
+e 2 5
+e 2 3
+e 3 4
+e 4 5
+e 4 6
